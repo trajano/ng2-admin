@@ -7088,9 +7088,9 @@ typescript@2.3.2:
   version "2.3.4"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.3.4.tgz#3d38321828231e434f287514959c37a82b629f42"
 
-typogr@0.6.6:
-  version "0.6.6"
-  resolved "https://registry.yarnpkg.com/typogr/-/typogr-0.6.6.tgz#49cb29a623d4f0c4d39ed91db790d847e4a360e8"
+typogr@^0.6.7:
+  version "0.6.7"
+  resolved "https://registry.yarnpkg.com/typogr/-/typogr-0.6.7.tgz#bbe877db87809afe0714dd143448803d7269d93c"
   dependencies:
     async "0.2"
     commander "1.0"

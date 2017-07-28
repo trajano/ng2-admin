@@ -114,7 +114,7 @@
     "tslint-eslint-rules": "4.0.0",
     "tslint-language-service": "0.9.6",
     "typescript": "2.3.2",
-    "typogr": "0.6.6",
+    "typogr": "^0.6.7",
     "underscore": "1.8.3",
     "wintersmith": "2.2.5",
     "wintersmith-sassy": "1.1.0"
